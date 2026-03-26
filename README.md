@@ -31,10 +31,8 @@ Interesse em: Análise de Sistemas · Redes · Segurança da Informação · Dad
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username='Márcio Filho'&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=marciofilho123&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciofilho123&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
