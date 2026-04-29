@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Programador Júnior em **Python** e Desenvolvedor Web com 3 anos de **experiência prática**. Bacharel em **Sistemas de Informação pela UNIMETA (2023)**, atualmente estudando sobre **JavaScript**, **TypeScript**, **Django**, **Flask** e **React**. Organizando e publicando projetos antigos aqui no GitHub.
+Programador Júnior em **Python** e Desenvolvedor Web com 3 anos de **experiência prática**. Bacharel em **Sistemas de Informação - UNIMETA**, cursando Pós-Graduação em **Arquitetura de Software, Ciência de Dados e Cybersecurity - PUCPR** atualmente estudando sobre **JavaScript**, **TypeScript**, **Django**, **Flask** e **React**. Organizando e publicando projetos antigos aqui no GitHub.
 
 Interesse em: Análise de Sistemas · Redes · Segurança da Informação · Dados · QA · Infraestrutura/Cloud
 
